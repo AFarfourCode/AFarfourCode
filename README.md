@@ -43,7 +43,7 @@
 ### ⚙️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,js,git,github,autocad,ps,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,python,git,github,autocad,ps,vscode" />
 </p>
 
 ---
@@ -79,4 +79,5 @@
   <br/>  
   🧩 <strong>Learning Go today, mastering AI through many languages tomorrow.</strong>
 </p>
+
 
