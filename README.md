@@ -14,7 +14,7 @@
 🧱 Skilled in **AutoCAD, 3ds Max, Lumion, and Photoshop**, and I enjoy helping others bring their creative ideas to life.  
 🚀 I’ve just begun my journey with **Go (Golang)** and I’m excited to **learn multiple programming languages** — starting with **Python**, to grow into a **professional AI developer**.  
 🤝 Open to collaborations that combine **design, architecture, and technology**.  
-📬 Reach me at **ahmedgamal.farfour@gmail.com**
+📬 Reach me at **arch.afarfour@gmail.com**
 
 ---
 
@@ -79,3 +79,4 @@
   <br/>  
   🧩 <strong>Learning Go today, mastering AI through many languages tomorrow.</strong>
 </p>
+
