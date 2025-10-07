@@ -26,6 +26,10 @@
 
 #### 💻 [Piscine-Go](https://github.com/AFarfourCode/piscine-go)  
 > My 01Talent Go journey — exploring the fundamentals of programming.  
+> **Tech:** Go · CLI · Algorithms
+
+#### 💻 [quadchecker](https://github.com/AFarfourCode/quadchecker)  
+> My 01Talent Go journey — Strengthened my logic-building, string manipulation, and modular programming skills. 
 > **Tech:** Go · CLI · Algorithms  
 
 ---
@@ -79,5 +83,6 @@
   <br/>  
   🧩 <strong>Learning Go today, mastering AI through many languages tomorrow.</strong>
 </p>
+
 
 
