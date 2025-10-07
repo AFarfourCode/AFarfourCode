@@ -3,7 +3,7 @@
 <h3 align="center">🏛️ Architect | 🎨 Designer | 👨‍🏫 Educator | 🤖 Future AI Developer</h3>
 
 <p align="center">
-  🎓 Learning software development @ <strong>01 Talent x Nextera Education</strong>  
+  🎓 Learning software development @ <strong>01 Talent Academy x Nextera Education</strong>  
 </p>
 
 ---
@@ -79,4 +79,5 @@
   <br/>  
   🧩 <strong>Learning Go today, mastering AI tomorrow.</strong>
 </p>
+
 
