@@ -12,9 +12,9 @@
 
 💫 I’m a constant learner with a deep passion for technology, software, and artificial intelligence. I love turning ideas into real solutions and always push myself to grow every day.  
 
-🚀 I’ve recently started my coding journey with Go (Golang), and I’m expanding into multiple languages — beginning with Python — with a clear goal of becoming a professional AI developer.  
+🚀 I’ve recently started my coding journey with Go (Golang), and I’m expanding into multiple languages beginning with Python with a clear goal of becoming a professional AI developer.  
 
-🧠 I enjoy problem-solving, building practical projects, and exploring how technology can shape the future in meaningful ways.  
+🧠 I enjoy problem solving, building practical projects, and exploring how technology can shape the future in meaningful ways.  
 
 🤝 Open to collaborations and opportunities where I can learn, contribute, and create impactful tech solutions.  
 
@@ -88,6 +88,7 @@
   <br/>  
   🧩 <strong>Learning Go today, mastering AI through many languages tomorrow.</strong>
 </p>
+
 
 
 
