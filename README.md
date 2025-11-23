@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#ff0055;">Ahmed Farfour</span></h1>
 
-<h3 align="center">🏛️ Architect | 🎨 Designer | 👨‍🏫 Constant Learner | 🤖 Future AI Developer</h3>
+<h3 align="center">🏛️ Architect | 👨‍🏫 Constant Learner | 🤖 Future AI Developer</h3>
 
 <p align="center">
   🎓 Learning software development @ <strong>01 Talent Academy x Nextera Education</strong>  
@@ -88,6 +88,7 @@
   <br/>  
   🧩 <strong>Learning Go today, mastering AI through many languages tomorrow.</strong>
 </p>
+
 
 
 
