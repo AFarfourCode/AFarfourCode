@@ -10,11 +10,13 @@
 
 ### 🧭 About Me  
 
-💫 I’m an **architect** with a passion for **designing spaces that inspire people**, now channeling that same creativity into **software and artificial intelligence**.  
-🧱 Skilled in **AutoCAD, 3ds Max, Lumion, and Photoshop**, and I enjoy helping others bring their creative ideas to life.  
-🚀 I’ve just begun my journey with **Go (Golang)** and I’m excited to **learn multiple programming languages** — starting with **Python**, to grow into a **professional AI developer**.  
-🤝 Open to collaborations that combine **design, architecture, and technology**.  
-📬 Reach me at **arch.afarfour@gmail.com**
+💫 I’m a constant learner with a deep passion for technology, software, and artificial intelligence. I love turning ideas into real solutions and always push myself to grow every day.
+🚀 I’ve recently started my coding journey with Go (Golang), and I’m expanding into multiple languages beginning with Python with a clear goal of becoming a professional AI developer.
+🧠 I enjoy problem solving, building practical projects, and exploring how technology can shape the future in meaningful ways.
+🤝 Open to collaborations and opportunities where I can learn, contribute, and create impactful tech solutions.
+📬 Reach me at arch.afarfour@gmail.com
+
+
 
 ---
 
@@ -83,6 +85,7 @@
   <br/>  
   🧩 <strong>Learning Go today, mastering AI through many languages tomorrow.</strong>
 </p>
+
 
 
 
